@@ -1,14 +1,17 @@
 name: mqtt_humidity_level
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: ">=3.4.3 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
+  mqtt_client: ^9.6.1
+  liquid_progress_indicator:
+    path: lib/liquid_progress_indicator
 
 dev_dependencies:
   flutter_test:

@@ -19,7 +19,9 @@ mqtt_humidity_level/
 │   ├── liquid_progress_indicator/
 │   │   ├── liquid_circular_progress_indicator.dart
 │   │   ├── liquid_progress_indicator.dart
+│   │   ├── pubspec.yaml
 │   │   └── wave.dart
+
 │   ├── mqtt_service.dart
 │   └── main.dart
 ├── pubspec.yaml

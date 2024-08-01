@@ -1,0 +1,10 @@
+name: liquid_progress_indicator
+description: A customizable liquid progress indicator for Flutter.
+version: 0.4.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
