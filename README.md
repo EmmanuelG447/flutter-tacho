@@ -58,6 +58,21 @@ flutter:
 
 #### 4. Archivos del Indicador de Progreso Líquido
 
+##### Archivo `lib/liquid_progress_indicator/pubspec.yaml`
+
+```yaml
+name: liquid_progress_indicator
+description: A customizable liquid progress indicator for Flutter.
+version: 0.4.0
+
+environment:
+  sdk: ">=3.4.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+```
+
 ##### Archivo `lib/liquid_progress_indicator/liquid_progress_indicator.dart`
 
 ```dart
