@@ -12,6 +12,7 @@ dependencies:
   mqtt_client: ^9.6.1
   liquid_progress_indicator:
     path: lib/liquid_progress_indicator
+  syncfusion_flutter_charts: ^20.2.46
 
 dev_dependencies:
   flutter_test:
